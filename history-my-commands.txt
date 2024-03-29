@@ -1,0 +1,19 @@
+    1  /usr/local/bin/python /workspaces/copilot-dd/test-prime.py
+    2  code dev.sql
+    3  code deployment.yaml
+    4  code contact.js
+    5  code phonoe.js
+    6  python -m unittest test_prime.py
+    7  gh copilot explain 'python -m unittest test_prime.py'
+    8  gh copilot "show all aliases"
+    9  gh --version
+   10  gh extension install github/gh-copilot
+   11  gh copilot explain "ps -aux"
+   12  gh auth login --web -h github.com
+   13  gh auth login --web 
+   14  export GITHUB_TOKEN=
+   15  gh auth login --web 
+   16  gh copilot explain "ps -aux"
+   17  gh copilot explain "ps -lef"
+   18  history
+   19  history > history-my-commands.txt
